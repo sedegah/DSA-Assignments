@@ -13,19 +13,19 @@ Contents
 Algorithms Implemented
 
 1. Bubble Sort
-- **Best Case**: O(n) – Already sorted
-- **Worst Case**: O(n²) – Reverse sorted
-- **Average Case**: O(n²)
+- Best Case: O(n) – Already sorted
+- Worst Case: O(n²) – Reverse sorted
+- Average Case: O(n²)
 
 2. Insertion Sort
-- **Best Case**: O(n) – Already sorted
-- **Worst Case**: O(n²) – Reverse sorted
-- **Average Case**: O(n²)
+- Best Case: O(n) – Already sorted
+- Worst Case: O(n²) – Reverse sorted
+- Average Case: O(n²)
 
 3. Linear Search
-- **Best Case**: O(1) – First element
-- **Worst Case**: O(n) – Last element or not found
-- **Average Case**: O(n/2)
+- Best Case: O(1) – First element
+- Worst Case: O(n) – Last element or not found
+- Average Case: O(n/2)
 
 
 
