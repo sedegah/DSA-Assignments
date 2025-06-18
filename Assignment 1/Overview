@@ -4,10 +4,6 @@ Contents
 |--------------------------|-------------|
 | `Algorithms.java`        | Implements core algorithms: Bubble Sort, Insertion Sort, and Linear Search. |
 | `Main.java`              | Entry point of the application. Accepts user input, runs selected algorithms, and records execution time. |
-| `ChartGenerator.java` (optional) | (If added) Generates visual charts using JFreeChart based on algorithm timing. |
-| `timing_data.csv`        | Stores recorded execution times for use in external charting tools (e.g., Excel). |
-| `AlgorithmTimeChart.png` | Auto-generated visual chart comparing performance of algorithms by input size (if charting included). |
-
 
 
 Algorithms Implemented
