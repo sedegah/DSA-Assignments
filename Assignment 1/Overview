@@ -1,4 +1,4 @@
-## Contents
+Contents
 
 | File                     | Description |
 |--------------------------|-------------|
@@ -8,29 +8,29 @@
 | `timing_data.csv`        | Stores recorded execution times for use in external charting tools (e.g., Excel). |
 | `AlgorithmTimeChart.png` | Auto-generated visual chart comparing performance of algorithms by input size (if charting included). |
 
----
 
-## Algorithms Implemented
 
-### 1. Bubble Sort
+Algorithms Implemented
+
+1. Bubble Sort
 - **Best Case**: O(n) – Already sorted
 - **Worst Case**: O(n²) – Reverse sorted
 - **Average Case**: O(n²)
 
-### 2. Insertion Sort
+2. Insertion Sort
 - **Best Case**: O(n) – Already sorted
 - **Worst Case**: O(n²) – Reverse sorted
 - **Average Case**: O(n²)
 
-### 3. Linear Search
+3. Linear Search
 - **Best Case**: O(1) – First element
 - **Worst Case**: O(n) – Last element or not found
 - **Average Case**: O(n/2)
 
----
 
-## How to Run
 
-### Compile
+How to Run
+
+Compile
 ```bash
 javac KimathiSedegah_22237205/*.java
