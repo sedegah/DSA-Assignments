@@ -4,6 +4,3 @@ This repository contains Java-based solutions to foundational Data Structures an
 
 ---
 
-## 📦 Package Structure
-
-All source code is contained in the package:
